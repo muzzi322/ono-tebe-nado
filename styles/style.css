@@ -82,7 +82,6 @@
   background-position: center;
   z-index: 12;
   position: relative;
-
 }
 
 .main-text_cover {
@@ -96,7 +95,7 @@
 .main-text_1 {
   display: flex;
   color: #fff;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 100px;
   font-style: normal;
   font-weight: 700;
@@ -115,7 +114,7 @@
 
 .main-text_2 {
   color: #fff;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 100px;
   font-style: normal;
   font-weight: 700;
@@ -128,7 +127,7 @@
 
 .main-text_3 {
   color: #fff;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 100px;
   font-style: normal;
   font-weight: 700;
@@ -143,7 +142,7 @@
   letter-spacing: 30px;
 }
 
-.cover_block{
+.cover_block {
   padding-bottom: 50px;
 }
 
@@ -151,11 +150,10 @@
   display: flex;
 }
 
-
 .footer_cover {
   display: inline-block;
   color: rgb(255, 255, 255);
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 400;
@@ -179,7 +177,7 @@
   margin-top: 78px;
   color: #fff;
   text-align: center;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 500;
@@ -198,8 +196,6 @@
 lots(карточки
 */
 
-
-
 .lots {
   max-width: 1052px;
   margin-top: 180px;
@@ -209,7 +205,7 @@ lots(карточки
 
 .lots_name {
   color: #000;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -243,7 +239,7 @@ lots(карточки
 
 .text_top {
   color: #fff;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 22px;
   font-style: normal;
   font-weight: 700;
@@ -258,7 +254,7 @@ lots(карточки
 
 .text_down {
   color: #fff;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -294,7 +290,7 @@ lots(карточки
 .more_info {
   display: block;
   color: rgb(0, 0, 0);
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -343,7 +339,7 @@ about
 .title_about {
   margin-top: 135px;
   color: #000;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -359,7 +355,7 @@ about
   display: flex;
   flex-direction: column;
   color: #000;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
@@ -386,7 +382,7 @@ about
   list-style-type: none;
   color: #000;
   text-align: center;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -410,5 +406,5 @@ about
 .logo_footer-image {
   width: 48px;
   height: 48px;
-  text-decoration:none
+  text-decoration: none;
 }
