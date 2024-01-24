@@ -406,5 +406,8 @@ about
 .logo_footer-image {
   width: 48px;
   height: 48px;
+}
+
+.no_link-image{
   text-decoration: none;
 }
